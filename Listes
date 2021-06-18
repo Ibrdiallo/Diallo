@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Listes désordonnées</title>
+	</head>
+	<body>
+		<h1>Mes idées à réaliser un jour</h1>
+		<p>Lourd lourd</p>
+		<ul>
+			<li>Japon</li>
+			<li>Sénégal</li>
+			<li>Tahiti</li>
+		</ul>
+
+	</body>
+</html>
