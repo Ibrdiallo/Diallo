@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>La police doit changer</title>
+    </head>
+    <body>
+    	 <h1 style="font-family: Arial">Démonstration de la force des polices</h1>
+        <ol>
+            <li style="font-family:Arial;font-size:16px">Voici un texte de grande taille en Arial.</li>
+            <li style="font-family: Verdana;font-size:12px">Ceci est un texte moyen en Verdana.</li>
+            <li style="font-family: Impact;font-size:10px">Et ce texte est petit mais il est en Impact.</li>
+        </ol>
+    </body>
+</html>
