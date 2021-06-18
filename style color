@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    	<meta charset="UTF-8">
+    	<title>3WA learning - Les couleurs</title>
+    </head>
+    <body>
+        <h2 style = color:green;font-size:16px>Le progrès</h2>
+        <p style=color:purple>Autrefois les écrans étaient monochromes</p>
+        <p style=color:red;font-size:8px>Puis, un jour, la couleur fit son apparition</p>
+    </body>
+</html>
