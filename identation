@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Titre de la page</title>
+    </head>
+    <body>
+        <p>Un paragraphe</p>
+        <p>
+            Un autre paragraphe un peu plus long avec
+            un <a href="http://example.com/">lien</a>
+            à l'intérieur
+        </p>
+    </body>
+</html>
