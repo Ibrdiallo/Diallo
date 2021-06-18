@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Listes imbriquées</title>
+	</head>
+	<body>
+		<ol>
+			<li>Fabricants d'ordinateurs
+				<ul>
+					<li>Apple</li>
+					<li>IBM</li>
+				</ul>
+			</li>
+			<li>Fabricants de smartphones
+				<ul>
+					<li>Samsung</li>
+					<li>LG</li>
+				</ul>
+			</li>
+		</ol>
+		<ul>
+			<li>Couleurs du drapeau français
+				<ol>
+					<li>bleu</li>
+					<li>blanc</li>
+					<li>rouge</li>
+				</ol>
+			</li>
+			<li>Couleurs du drapeau italien
+				<ol>
+					<li>vert</li>
+					<li>blanc</li>
+					<li>rouge</li>
+				</ol>
+			</li>
+		</ul>
+	</body>
+</html>
