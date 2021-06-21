@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Mon titre</title>
+	</head>
+	<body>
+		<img src="https://3wa.fr/wp-content/themes/3wa2015/img/logos/big.png">
+		<p>Ceci est ma description.</p>
+		<ul>
+			<li>
+				Centres d'intérêts
+			</li>
+			<li>
+				Expériences
+			</li>
+			<li>
+				Formation
+			</li>
+			<li>
+				Citations favorites
+			</li>
+		</ul>
+	</body>
+</html>
