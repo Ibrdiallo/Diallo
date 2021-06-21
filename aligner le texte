@@ -1,0 +1,14 @@
+ <!DOCTYPE html> 
+    <html> 
+    <head> 
+     <title> Aligner le texte avec l'attribut</title> 
+     </head> 
+        <body> 
+ <h3 style="text-align:center">Les partis politiques en France </h3> 
+ <ol> 
+    <li style="text-align:left">La gauche</li> 
+    <li style="text-align:center">Le centre</li> 
+    <li style="text-align:right" >La droite</li> 
+ </ol> 
+ </body> 
+ </html>
